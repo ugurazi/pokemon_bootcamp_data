@@ -28,6 +28,23 @@ Bu datanın içindeki sütunlar şunlardır:
 
 12- Legendary: Pokémon'un efsane olup olmadığı
 
+İlk önce işe Colab'ı drive'a bağlayarak başladım. Daha sonra veri setini ekledim ve zipten çıkarttım.
+
+Daha sonra isim kontrolü yaptım ve boşluk karakterler için "_" ifadesini ekledim.
+
+Daha sonra aşırı değerler kontrolünü yaptım ve aşırı değerleri sildim.
+
+Temel İstatiksel Analizleri yaptım. Veri setinin ortalama değerleri, standart sapma ve medyan gibi ölçümlerini yaptım.
+
+Geri kalanları ile Korelasyon Analizi yaptım. 
+
+Daha sonra görselleştirerek veri setinin daha anlamlı bir hale gelmesini sağladım.
+
+Korelasyon matriksi ile sütunlar arasındaki ilişkileri analiz ettim. 
+
+Bundan sonra ise sütunlar arası önem sırası grafiği yaptım. 
+
+Daha sonra ise yeni bir Yetenek Oranları sütunu ekledim. Bu sütun Attack/Speed oranını her karakter için veriyor.
 
 Tüm detayları dosya içinde belirttim. İlk defa hayatımda Veri Analizi yaptığım için çoğu yerden yardım alarak yaptım.
 
