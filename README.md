@@ -1,5 +1,7 @@
 # Pokemon datası!
 Akbank Veri Analizi Bootcamp'i için Pokemon datasını analiz ettim.
+
+
 Bu datanın içindeki sütunlar şunlardır:
 1- Name: Pokémon'un ismi
 2- Type_1: Pokémon'un birincil türü
